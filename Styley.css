@@ -1,5 +1,7 @@
 body {
 background: url(Background.jpg) repeat;
+color: red;
+font-family: Georgia;
 }
 
 .Bar {
