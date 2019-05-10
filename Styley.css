@@ -19,6 +19,8 @@ img {
 .Hous {
 Color: White;
 font-size: 20;
+height: 10%;
+width: 10%;
 Bottom:5%;
 background: url(Buyhous.png) no-repeat center center fixed;
 
