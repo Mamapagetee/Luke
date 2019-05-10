@@ -4,11 +4,8 @@ color: red;
 font-family: Georgia;
 }
 
-.Bar {
- background: url(Logo.png); 
-  	background-size:cover, auto;
-	background-repeat:no-repeat;
-	height:auto;
-	width:auto;
+.Bar { 
+  	width:100%;
+	height:30px;
   
 }
