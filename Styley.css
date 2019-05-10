@@ -4,6 +4,9 @@ background: url(Background.jpg) repeat;
 
 .Bar {
  background: url(Logo.png); 
-  
+  	background-size:cover, auto;
+	background-repeat:no-repeat;
+	height:auto;
+	width:auto;
   
 }
