@@ -1,5 +1,5 @@
 body {
-background: url(Background.jpg) repeat;
+background: url(Money.gif) no-repeat, fill;
 color: red;
 font-family: Georgia;
 }
